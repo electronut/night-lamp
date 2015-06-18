@@ -10,7 +10,7 @@ http://electronut.in/night-lamp/
 
 Here is the schematic:
 
-![](photos/nl-circuit.png)
+![](night-lamp-circuit.png)
 
 ### PCB
 
